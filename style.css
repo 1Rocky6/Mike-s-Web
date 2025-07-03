@@ -1,0 +1,49 @@
+.intro-background {
+    background-image: url(./imagenes/forest.jpg);
+    background-position: center;
+}
+
+.H-color {
+    font-family: sans-serif;
+    color: white;
+}
+
+.presentation-color{
+    background-color: #515D3C;
+}
+
+.d-block{
+    height: 200px;
+  border-radius: 50%;
+}
+
+.lead{
+    font-family: serif;
+    color: white;
+}
+
+.bi{
+    color: #FF6A00
+    ;
+}
+
+.skill-color{
+    background-color: #25382F;
+}
+
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+    background-color: #472400;
+}
+
+.contact-background{
+    background-image: url(./imagenes/fire-l.jpg);
+    background-position: center;
+}
+
+.footer-color{
+    background-color: #271D1B;
+}
